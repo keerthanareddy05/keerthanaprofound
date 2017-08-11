@@ -3,7 +3,7 @@
 *execution: java -cp bin com.bridgelabz.LeapYear n
 *  purpose: To determine wheather the year is leap year or not.
 *
-* @author Bridgelabz
+* @author keerthanareddy
 * @version 1.0
 * @since 08-08-2017
 **********************************************************************************

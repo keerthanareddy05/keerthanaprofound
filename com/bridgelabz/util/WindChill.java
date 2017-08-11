@@ -1,15 +1,15 @@
 /*********************************************************************************
-
-*  purpose: To calculate the wind chill.
+*compalition: javac -d bin WindChill.java
+*execution: java -cp bin com.bridgelabz.util.WindChill n
+*  purpose: To determine the windChill.
 *
-* @author keerthana Reddy
+* @author Keerthana Reddy
 * @version 1.0
 * @since 08-08-2017
-**********************************************************************************
- /*
-  *import statements
-  */
-package com.bridgelabz.util;
+**********************************************************************************/
+/*
+ *import staements
+*/
 public class WindChill{
    public static void main(String args[]){
 /*
