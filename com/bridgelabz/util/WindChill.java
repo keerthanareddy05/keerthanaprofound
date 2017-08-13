@@ -17,7 +17,7 @@ public class WindChill{
  */
 		double mTemp=Double.parseDouble(args[0]);
 		double mVelocity=Double.parseDouble(args[1]);
-		double windchill;
+		double windchill ;
 /*
  * formula to calculate wind chill
  */	
