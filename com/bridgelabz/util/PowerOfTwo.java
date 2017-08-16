@@ -1,5 +1,5 @@
 /*********************************************************************************
-*compalition: javac -d bin PowerOfTwo.java
+*compalition: javac -d bin com/bridgelabz/util PowerOfTwo.java
 *execution: java -cp bin com.bridgelabz.util.PowerOfTwo n
 *  purpose: To determine the square of number 2.
 *

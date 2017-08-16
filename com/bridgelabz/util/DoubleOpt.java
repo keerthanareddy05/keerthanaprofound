@@ -1,5 +1,5 @@
 /*********************************************************************************
-*compalition: javac -d bin DoubleOpt.java
+*compalition: javac -d bin com/bridgelabz/util DoubleOpt.java
 *execution: java -cp bin com.bridgelabz.util.DoubleOpt n
 *  purpose: To determine the precedence of the operators.
 *

@@ -1,5 +1,5 @@
 /*********************************************************************************
-*compalition: javac -d bin Binary.java
+*compalition: javac -d bin com/bridgelabz/util Binary.java
 *execution: java -cp bin com.bridgelabz.util.Binary n
 * purpose: To convert the decimal to binary numbr.
 *

@@ -1,5 +1,5 @@
 /*********************************************************************************
-*compalition: javac -d bin CarLoan.java
+*compalition: javac -d bin com/bridgelabz/util CarLoan.java
 *execution: java -cp bin com.bridgelabz.util.CarLoan n
 *  purpose: To determine the CarLoan
 *

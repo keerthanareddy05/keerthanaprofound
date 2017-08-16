@@ -1,8 +1,7 @@
 /*********************************************************************************
-*compalition: javac -d bin DayOfWeek.java
-*execution: java -cp bin com.bridgelabz.util.DayOfWeek n
-*  purpose: To determine the error in the program .
-*
+*compalition: javac -d bin com/bridgelabz/util Error.java
+*execution: java -cp bin com.bridgelabz.util.Error n
+* purpose: To determine the error in the program .
 * @author Keerthana Reddy
 * @version 1.0
 * @since 11-08-2017

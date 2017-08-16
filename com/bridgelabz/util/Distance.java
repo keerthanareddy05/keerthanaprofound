@@ -1,5 +1,5 @@
 /*********************************************************************************
-*compalition: javac -d bin Distance.java
+*compalition: javac -d bin com/bridgelabz/util Distance.java
 *execution: java -cp bin com.bridgelabz.util.Distance n
 *  purpose: To determine the Euclidean distance from point(x,y) .
 *

@@ -1,5 +1,5 @@
 /*********************************************************************************
-*compalition: javac -d bin IntOpt.java
+*compalition: javac -d bin com/bridgelabz/util IntOpt.java
 *execution: java -cp bin com.bridgelabz.IntOpt n
 *  purpose: To determine the precedence of the operators.
 *

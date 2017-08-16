@@ -1,11 +1,11 @@
 /****************************************************************************** 
- *  Purpose: find out roots of given quadratic equation.
- *
- *  @author  Keerthana Reddy
- *  @version 1.0
- *  @since   08-08-2017
- *
- ******************************************************************************/
+*compalition: javac -d bin  com/bridgelabz/util QuadraticEquation.java
+*execution: java -cp bin com.bridgelabz.util.QuadraticEquation n
+*  Purpose: find out roots of given quadratic equation. 
+* @author  Keerthana Reddy
+*  @version 1.0
+*  @since   08-08-2017
+ ********************************************************************************/
 import java.util.Scanner;
 
 public class QuadraticEquation

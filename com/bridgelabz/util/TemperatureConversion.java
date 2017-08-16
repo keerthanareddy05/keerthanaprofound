@@ -1,5 +1,5 @@
 /*********************************************************************************
-*compalition: javac -d bin TemperatureConversion.java
+*compalition: javac -d bin com/bridgelabz/util TemperatureConversion.java
 *execution: java -cp bin com.bridgelabz.util.TemperatureConversion n
 *  purpose: To convert the temperature from Farenhite to celcius.
 *

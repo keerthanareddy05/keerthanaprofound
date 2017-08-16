@@ -1,5 +1,5 @@
 /*********************************************************************************
-*compalition: javac -d bin TwiceChecker.java
+*compalition: javac -d bin com/bridgelabz/util TwiceChecker.java
 *execution: java -cp bin com.bridgelabz.util.TwiceChecker n
 * purpose: To determine the number is repeated twice between 1 to 100.
 *

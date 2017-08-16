@@ -1,8 +1,7 @@
 /*********************************************************************************
-*compalition: javac -d bin Prime.java
+*compalition: javac -d bin  com/bridgelabz/util Prime.java
 *execution: java -cp bin com.bridgelabz.util.Prime n
 *  purpose: To determine wheather the number is prime or not.
-*
 * @author Keerthana Reddy
 * @version 1.0
 * @since 08-08-2017

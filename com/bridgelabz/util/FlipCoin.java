@@ -1,5 +1,5 @@
  /*********************************************************************************
-*compalition: javac -d bin FlipCoin.java
+*compalition: javac -d bin com/bridgelabz/util FlipCoin.java
 *execution: java -cp bin com.bridgelabz.util.FlipCoin n
 *  purpose: To determine wheather it is heads or tail.
 *

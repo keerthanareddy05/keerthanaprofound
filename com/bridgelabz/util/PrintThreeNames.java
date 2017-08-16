@@ -1,9 +1,8 @@
 /*********************************************************************************
-*compalition: javac -d bin PrintThree.java
-*execution: java -cp bin com.bridgelabz.util.WindChill n
+*compalition: javac -d bin  com/bridgelabz/util PrintThreeNames.java
+*execution: java -cp bin com.bridgelabz.util.PrintThreeNames n
 *purpose: To Print three names in reverse order. 
-*
-* @author keerthana Reddy
+*@author keerthana Reddy
 * @version 1.0
 * @since 08-08-2017
 **********************************************************************************

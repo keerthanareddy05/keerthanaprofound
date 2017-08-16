@@ -1,7 +1,6 @@
 /******************************************************************************
- *  Compilation:  javac -d bin Harmonic.java
+ *  Compilation:  javac -d bin com/bridgelabz/util Harmonic.java
  *  Execution:    java -cp bin com.bridgelabz.util.Harmonic n
- *  
  *  Purpose:      Print  harmonic series upto n entered by user
  *  @author  keerthana Reddy
  *  @version 1.0

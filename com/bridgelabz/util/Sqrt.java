@@ -1,5 +1,5 @@
 /*********************************************************************************
-*compalition: javac -d bin Sqrt.java
+*compalition: javac -d bin com/bridgelabz/utilSqrt.java
 *execution: java -cp bin com.bridgelabz.util.Sqrt n
 *  purpose: To determine the square root of a number.
 *

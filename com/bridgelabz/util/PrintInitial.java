@@ -1,5 +1,5 @@
 /******************************************************************************
- *  Compilation:javac -d bincom/bridgelabz/util PrintInitials.java
+ *  Compilation:javac -d bin com/bridgelabz/util PrintInitials.java
  *  Execution:java -cp bin com.bridgelabz.util.PrintInitials n
  *   Purpose: To print the initials of the names.
  *  @author  keerthana Reddy

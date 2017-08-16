@@ -1,5 +1,5 @@
 /*********************************************************************************
-*compalition: javac -d bin SpringSeason.java
+*compalition: javac -d bin com/bridgelabz/util SpringSeason.java
 *execution: java -cp bin com.bridgelabz.util.SpringSeason n
 *  purpose: To determine wheather the season is spring or not.
 *

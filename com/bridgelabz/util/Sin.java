@@ -1,7 +1,7 @@
 /*********************************************************************************
 *compalition: javac -d bin com/bridgelabz/util Sin.java
 *execution: java -cp bin com.bridgelabz.util.Sin n
-* purpose: To convert t.
+* purpose: To convert t0 sin.
 *
 * @author Keerthana Reddy
 * @version 1.0

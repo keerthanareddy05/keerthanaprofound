@@ -1,5 +1,5 @@
 /*********************************************************************************
-*compalition: javac -d bin WindChill.java
+*compalition: javac -d bincom/bridgelabz/util WindChill.java
 *execution: java -cp bin com.bridgelabz.util.WindChill n
 *  purpose: To determine the windChill.
 *

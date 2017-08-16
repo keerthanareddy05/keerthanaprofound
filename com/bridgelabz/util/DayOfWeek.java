@@ -1,5 +1,5 @@
 /*********************************************************************************
-*compalition: javac -d bin DayOfWeek.java
+*compalition: javac -d bin  com/bridgelabz/util DayOfWeek.java
 *execution: java -cp bin com.bridgelabz.util.DayOfWeek n
 *  purpose: To determine which day of week is given.
 *
