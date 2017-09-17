@@ -34,22 +34,35 @@ class StringFunctions{
 
     static boolean isAnagram(String str1, String str2){
 
-        boolean mAnagram = false;
+        
 
-        int lengthFirst = str1.length();
-        int lengthSecond = str2.length();
+       	a[]=str1.toCharArray();
+        b[]=str2.toCharArray();
+        int lengthFirst,lengthSecond,flag=0;
+	l1=a[].length;
+	l2=b[].length;
+    
 
-        if(lengthFirst == lengthSecond) {
+        if(lengthFirst !== lengthSecond) {
+		{
+		System.out.println("Not anagram");
+                }
+		else{
+		Arrays.Sort(a);
+		Arrays.Sort(b);
 
             for (int i = 0; i < lengthFirst; i++) {
 
                 for (int j = 0; j < lengthFirst; j++) {
 
-                    if (str1.charAt(i) == str2.charAt(j)) {
 
-                        mAnagram = true;
+                    if (a[i] == a[j]) {
+
+                        flag=1;
                         break;
                     }
+			else{
+			flag=0;
                 }
             }
         }
@@ -86,13 +99,9 @@ class StringFunctions{
 
         String mString1 = args[0];
         String mString2 = args[1];
+	System.out.println("Anagram");
 
-        boolean mAnagramMsg = isAnagram(mString1,mString2);
-
-        if(mAnagramMsg == true)
-            System.out.println(isAnagram_Msg);
-        else
-            System.out.println(isNotAnagram_Msg);
+      
 
         boolean mPalindrome = isPalindrome(mString1);
 
